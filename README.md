@@ -1,24 +1,3 @@
 # vue-router
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## 算是先给自己写好了一个模版，完成了Vue路由的配置，重定向，Vant组件的配置。
